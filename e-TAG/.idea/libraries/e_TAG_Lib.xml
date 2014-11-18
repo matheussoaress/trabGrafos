@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="e-TAG-Lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/e-TAG-Lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
